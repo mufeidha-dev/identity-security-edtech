@@ -1,2 +1,2 @@
 # identity-security-edtech
-Secure Identity and Access Management system for an EdTech platform using Authentication, RBAC, and Session Management for Students, Teachers, and Admin roles.
+A secure Identity Security Framework for an EdTech platform that implements Authentication, Role-Based Access Control (RBAC), Session Management, and User Role Management for Students, Teachers, and Admins. The system ensures secure login, controlled access to resources, and protection of sensitive educational data using a structured identity management approach.
